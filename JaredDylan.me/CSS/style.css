@@ -1,0 +1,178 @@
+body {
+  font-family: 'century gothic', sans-serif;
+  font-size: auto;
+  color: #222;
+  margin: 0 auto;
+  background-color: #666;
+  background-size: 150%;
+  background: right 10;
+  overflow-y: visible; margin-bottom: 100%;
+  background-image: no-repeat;
+}
+
+.head {
+  display: inline-block;
+  padding-bottom: 0;
+}
+
+#bar {
+  position: fixed;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  max-height: 120px;
+  min-height: 110px;
+  height: auto;
+  z-index: 2;
+}
+
+main {
+  margin-top: 20;
+  max-height: 100%;
+}
+
+img#jd {
+  position: fixed;
+  display: inline-block;
+  z-index: 5;
+  top:7px;
+  left: 2%;
+  height: 15%;
+  min-height: 65px;
+  max-height: 110px;
+}
+
+a {
+  color: #222;
+}
+
+a:active {
+  color: #222;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #202153;
+}
+
+nav {
+  position: fixed;
+  display: inline-block;
+  top: 50px;
+  right: 65px;
+  z-index: 3;
+}
+
+nav li {
+  text-decoration: none;
+  display: inline-block;
+  border-right: 1px solid #222;
+  border-left: 1px solid #222;
+  right: 3em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+header article {
+  position: fixed;
+  margin-top: 5px;
+  right: 0;
+
+}
+
+.social {
+  height: 12%;
+  width: 12%;
+  top: 0;
+  padding-right: 5px;
+}
+
+#social {
+  position: fixed;
+  right: 1em;
+  z-index: 3;
+}
+
+.spotify {
+  left: 0;
+  width: 40%;
+  top: 20%;
+  z-index: 1;
+  padding-top: 10%;
+  display: list-item;
+
+}
+
+.twitter-timeline {
+  display: list-item;
+  left: 0;
+  top: 50%;
+}
+
+.snapwidget-widget {
+  margin-left: 0 auto;
+  width: 40%;
+  top: 75%;
+}
+
+.space {
+  padding-top: 3%;
+}
+
+#pics {
+  display: list-item;
+  padding-top: 1in;
+  z-index: 1;
+}
+
+.pic1 {
+  position: absolute;
+  padding-right: 50%;
+  padding-top: .5in;
+  float: left;
+}
+
+.pic2 {
+  position: absolute;
+  padding-right: 60%;
+  padding-top: 4in;
+  float: left;
+}
+
+.pic3 {
+  position: absolute;
+  padding-right: 50%;
+  padding-top: 6.51in;
+  float: left;
+}
+
+.pic4 {
+  position: absolute;
+  padding-right: 50%;
+  padding-top: 9.93in;
+  float: left;
+}
+
+.pic5 {
+  position: absolute;
+  padding-right: 50%;
+  padding-top: 13.1in;
+  float: left;
+}
+
+.pic6 {
+  position: absolute;
+  padding-left: 6in;
+  padding-top: 13.1in;
+  float: left;
+}
+
+.pic7 {
+  position: absolute;
+  padding-right: 50%;
+  padding-top: 15.43in;
+  float: left;
+}
