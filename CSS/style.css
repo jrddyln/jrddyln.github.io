@@ -34,11 +34,9 @@ img#jd {
   position: fixed;
   display: inline-block;
   z-index: 5;
-  top:7px;
+  top:3px;
   left: 2%;
-  height: 15%;
-  min-height: 65px;
-  max-height: 110px;
+  height: 110px;
 }
 
 a {
