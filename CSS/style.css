@@ -178,3 +178,33 @@ header article {
   margin: 40px;
   padding-top: 80px;
 }
+
+.lyric {
+  padding-top: 170px;
+  float: left;
+  padding-right: 50%;
+}
+
+.symphony {
+  margin-top: 80px;
+  float: left;
+  padding-right: 50%;
+}
+
+.mistakes {
+  margin-top: 80px;
+  float: left;
+  padding-right: 50%;
+}
+
+.panicvid {
+  margin-top: 80px;
+  float: left;
+  padding-right: 50%;
+}
+
+.rss {
+  margin-top: 80px;
+  float: left;
+  padding-right: 50%;
+}
