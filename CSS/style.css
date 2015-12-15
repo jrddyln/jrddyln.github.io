@@ -116,6 +116,12 @@ header article {
   top: 75%;
 }
 
+.symphtune {
+  float: right;
+  padding-top: 10%;
+  padding-right: 5%;
+}
+
 .space {
   padding-top: 3%;
 }
