@@ -1,3 +1,7 @@
+$('button').click(function() {
+  $(this).toggleClass('expanded').siblings('div').slideToggle();
+});
+
 $(function() {
 	/* this is the index of the last clicked picture */
 	var current = -1;
